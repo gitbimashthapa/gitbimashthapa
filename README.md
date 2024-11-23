@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hello there!
 
-<!--
-**gitbimashthapa/gitbimashthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile!
 
-Here are some ideas to get you started:
+## SOCIAL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use the [SOCIAL](https://www.instagram.com/thapabimash/) to view my social media profile.
+
+```bash
+AWS | MERN-Stack
+```
+
+## Skills and Languages
+
+```python
+
+# Languages
+('Java','JavaScript','Python','SQL')
+
+# Front-end
+('HTML','CSS','Tailwind CSS','React')
+
+# Back-end
+('mongoDB','PostgresSQL')
+```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## Linkedin
+
+[LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/)
