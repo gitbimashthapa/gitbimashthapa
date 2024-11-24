@@ -4,7 +4,7 @@ Welcome to my Github profile!
 
 ## SOCIAL
 
-Use the [SOCIAL](https://www.instagram.com/thapabimash/) to view my social media profile.
+Use the [INSTA](https://www.instagram.com/thapabimash/) to view my social media profile.
 
 ```bash
 AWS | MERN-Stack
