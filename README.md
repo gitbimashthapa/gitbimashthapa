@@ -15,13 +15,13 @@ AWS | MERN-Stack
 ```python
 
 # Languages
-('Java','JavaScript','Python','SQL')
+('Python','Java','JavaScript')
 
 # Front-end
 ('HTML','CSS','Tailwind CSS','React')
 
-# Back-end
-('mongoDB','PostgresSQL')
+# Data-base/Back-end
+('mongoDB','PostgresSQL','SQL')
 ```
 
 ## Contributing
