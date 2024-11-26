@@ -21,7 +21,7 @@ AWS | MERN-Stack
 ('HTML','CSS','Tailwind CSS','React')
 
 # Data-base/Back-end
-('mongoDB','PostgresSQL','SQL')
+('mongoDB','PostgresSQL')
 ```
 
 ## Contributing
