@@ -28,6 +28,9 @@ AWS | MERN-Stack
 
 # connect
 ('LINKEDIN','TWITTER','Slack')
+
+# Libraries
+('Firebase','Firestore','Langchain','Pinecone')
 ```
 
 ## Contributing
