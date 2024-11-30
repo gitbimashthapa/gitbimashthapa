@@ -18,13 +18,16 @@ AWS | MERN-Stack
 ('Python','Java','JavaScript')
 
 # Front-end
-('HTML','CSS','Tailwind CSS','React')
+('HTML','CSS','Tailwind CSS','React','Next.js')
 
 # Data-base/Back-end
 ('mongoDB','PostgresSQL')
 
 # others
-('Sanity.io','Figma','vercel')
+('Sanity.io','Figma','vercel',)
+
+# connect
+('LINKEDIN','TWITTER','Slack')
 ```
 
 ## Contributing
