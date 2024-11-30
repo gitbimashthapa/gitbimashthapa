@@ -24,7 +24,7 @@ AWS | MERN-Stack
 ('mongoDB','PostgresSQL')
 
 # others
-('Sanity.io','Figma','Slack')
+('Sanity.io','Figma')
 ```
 
 ## Contributing
