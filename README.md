@@ -22,6 +22,9 @@ AWS | MERN-Stack
 
 # Data-base/Back-end
 ('mongoDB','PostgresSQL')
+
+# others
+('Sanity.io','Figma','Slack')
 ```
 
 ## Contributing
