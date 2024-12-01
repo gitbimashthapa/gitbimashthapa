@@ -6,6 +6,13 @@ Welcome to my Github profile!
 
 Use the [TWITTER](https://x.com/thapa_bimash) to view my social media profile.
 
+# Languages
+- ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-%233B77A8?style=flat&logo=python&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
+- ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
+
+  
 ```bash
 AWS | MERN-Stack
 ```
@@ -13,14 +20,6 @@ AWS | MERN-Stack
 ## Skills and Languages
 
 ```python
-
-# Languages
-('Python','Java','JavaScript')
-
-- ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat&logo=java&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-%233B77A8?style=flat&logo=python&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
 # Front-end
 ('HTML','CSS','Tailwind CSS','React','Next.js')
