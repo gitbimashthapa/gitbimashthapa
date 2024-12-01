@@ -17,6 +17,11 @@ AWS | MERN-Stack
 # Languages
 ('Python','Java','JavaScript')
 
+- ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-%233B77A8?style=flat&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
+
 # Front-end
 ('HTML','CSS','Tailwind CSS','React','Next.js')
 
