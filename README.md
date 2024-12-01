@@ -22,13 +22,12 @@ AWS | MERN-Stack
 # Back-End
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white)
 
-# Hard Skills
+# Cloud and OS
 - ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-- ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 # Libraries
-- ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+- ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 # Education
 - ![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff) ![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)
