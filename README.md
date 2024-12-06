@@ -46,6 +46,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Linkedin
+## Linkedin connect
 
 [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/)
