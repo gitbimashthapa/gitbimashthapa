@@ -30,7 +30,7 @@ AWS | MERN-Stack
 - ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 # Education
-- ![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff) ![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)
+- ![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff) ![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff) ![The ODIN Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)
 - ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff) ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)
 - ![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0A66C2?logo=linkedin&logoColor=fff) ![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff) ![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)
 
