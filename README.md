@@ -1,7 +1,7 @@
 # Hello there!
 
 Welcome to my Github profile!
-Use the [Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)[](https://x.com/thapa_bimash) to connect.
+Use  [Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)[](https://x.com/thapa_bimash) to connect.
 
 ```bash
 AWS | MERN-Stack
