@@ -1,7 +1,7 @@
 # Hello there!
 
 Welcome to my Github profile!
-Use  [Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)[](https://x.com/thapa_bimash) to connect.
+Use [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
 
 ```bash
 AWS | MERN-Stack
@@ -46,6 +46,6 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## Linkedin connect
+## Twitter connect
 
-[LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/)
+[Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)[](https://x.com/thapa_bimash) 
