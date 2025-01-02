@@ -1,7 +1,7 @@
 # Hello there!
 
 Welcome to my Github profile!
-Use [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
+Use the [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
 
 ```bash
 AWS | MERN-Stack
