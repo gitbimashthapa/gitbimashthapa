@@ -1,4 +1,4 @@
-# Hello there!
+# Hello everyone!
 
 Welcome to my Github profile!
 Use the [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
