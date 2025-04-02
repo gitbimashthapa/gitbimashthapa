@@ -6,7 +6,7 @@
 
 
 ```bash
-AWS | Full-Stack
+                                                                                      AWS | Full-Stack
 ```
 
 # Languages
@@ -22,14 +22,16 @@ AWS | Full-Stack
 
 
 # Back-End
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+
 
 # Database
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
-# Cloud and OS
-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+# Cloud and Technologies
+- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
 
 # Libraries
 - ![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
