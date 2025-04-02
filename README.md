@@ -2,7 +2,7 @@
   
 # Hello, I'm Bimash Thapa
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0000FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Cloud+Engineer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Cloud+Engineer;)](https://git.io/typing-svg)
 
 Welcome to my Github profile!
 Use the [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
