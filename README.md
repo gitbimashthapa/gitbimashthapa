@@ -1,11 +1,11 @@
 <div align="center">
   
-# Hello, I'm Bimash Thapa
+# Hello, I'm Bimash Thapa, welcome to my Github profile!
+
+[ <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>](https://www.linkedin.com/in/bimash-thapa-2060-2003-/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Cloud+Engineer;)](https://git.io/typing-svg)
 
-Welcome to my Github profile!
-Use the [LINKEDIN](https://www.linkedin.com/in/bimash-thapa-2060-2003-/) to connect.
 
 ```bash
 AWS | MERN-Stack
