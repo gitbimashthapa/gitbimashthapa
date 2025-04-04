@@ -6,7 +6,7 @@
 
 
 ```bash
-                                                                                      AWS | Full-Stack
+      AWS | Full-Stack
 ```
 
 # Languages
