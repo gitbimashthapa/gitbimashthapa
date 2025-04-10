@@ -22,14 +22,13 @@
 
 
 # Back-End
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 
 # Database
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
-# Tools and Platform
+# Platform
 - ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
 
@@ -45,6 +44,8 @@
 <div align="center">
   
 [ <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>](https://www.linkedin.com/in/bimash-thapa-2060-2003-/)    [ <a href="https://x.com/"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>](https://x.com/thapa_bimash)
+
+# Tools
 - ![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 - ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black) ![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=flat&logo=stack-overflow&logoColor=white)
