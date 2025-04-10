@@ -22,7 +22,8 @@
 
 
 # Back-End
-- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+- ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat&logo=django&logoColor=white) 
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 
 
