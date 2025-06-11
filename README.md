@@ -23,8 +23,7 @@
 # Back-End
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
-- ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
-
+- 
 # Platform
 - ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
 
