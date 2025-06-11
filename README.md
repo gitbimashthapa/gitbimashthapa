@@ -13,7 +13,6 @@
 - ![Java](https://img.shields.io/badge/Java-%23E34A86?style=flat&logo=java&logoColor=white)  ![Python](https://img.shields.io/badge/Python-%233B77A8?style=flat&logo=python&logoColor=white)
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
 # Front-End
@@ -26,6 +25,7 @@
 
 
 # Database
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C7EBB?style=flat&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2307405B?style=flat&logo=sqlite&logoColor=white)
 
 # Platform
