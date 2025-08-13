@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello, I'm Bimash Thapa, welcome to my Github profile! 
+# Hello, I am Bimash Thapa, welcome to my Github profile! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADD8E6&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Cloud+Engineer;)](https://git.io/typing-svg)
 
